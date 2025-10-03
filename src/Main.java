@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("Desenvolvido por Juliano Martins");
+        System.out.println("Desenvolvedor por Juliano Martins");
     }
 }
